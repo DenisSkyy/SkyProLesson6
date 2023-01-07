@@ -38,7 +38,6 @@ public class Main{
             System.out.println(year + " год не является високосным");
         }
 
-
         int deliveryDistance = 70;
 
         if (deliveryDistance <= 20) {
