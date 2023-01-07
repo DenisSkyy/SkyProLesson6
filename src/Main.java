@@ -27,6 +27,7 @@ public class Main{
         int pearYear2 = year % 400;
         int year2 = year % 100;
 
+
         if (pearYear2 == 0) {
             System.out.println(year + " год является високосным");
         } else if (pearYear == 0) {
